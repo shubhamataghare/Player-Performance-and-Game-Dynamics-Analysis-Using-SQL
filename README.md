@@ -1,4 +1,4 @@
-# Title: Player Performance and Game Dynamics Analysis Using SQL
+# Player Performance and Game Dynamics Analysis Using SQL
 
 Project Description:
 This project focused on extracting key performance metrics for players, comparing player performance across different devices and difficulty levels, and identifying trends and patterns in player behavior. Using SQL, I gathered valuable insights to optimize the game experience.
